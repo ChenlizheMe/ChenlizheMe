@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Lizhe Chen
+# Lizhe Chen
 
-**Graphics & AI** · Building things that run on GPUs
+> *rebel with a cause*
 
----
-
-### 🚀 About Me
-
-Graphics engineer diving deep into AI. I build Vulkan engines and GPU renderers, train reasoning and multimodal models — and ship indie games with friends somewhere in between. If it runs on a GPU and makes pixels or predictions, I'm probably into it.
+GPU hacker. Vulkan · AI · Indie Games. If it runs on silicon, I'm in.
 
 ---
 
@@ -34,5 +30,3 @@ Graphics engineer diving deep into AI. I build Vulkan engines and GPU renderers,
 [![GitHub](https://img.shields.io/badge/GitHub-ED1C24?style=flat&logo=github&logoColor=white)](https://github.com/ChenlizheMe)
 
 ---
-
-*"If it runs on a GPU and makes pixels or predictions, I'm probably into it."*
