@@ -1,32 +1,27 @@
-# Lizhe Chen
-
-> *rebel with a cause*
-
-GPU hacker. Vulkan · AI · Indie Games. If it runs on silicon, I'm in.
-
----
-
-### 📊 GitHub Analytics
+<h1 align="center">Lizhe Chen &nbsp;·&nbsp; 陈立哲</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChenlizheMe&show_icons=true&count_private=true&hide=contribs&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenlizheMe&layout=compact&langs_count=8&theme=radical&hide=html,css,javascript"/>
+  <b>Master's Student @ Tsinghua University</b>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChenlizheMe&theme=radical&no-frame=true&row=1&column=7&margin-w=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenlizheMe&theme=radical&hide_border=true"/>
+  <i>"Build fast. Break things. Figure out why."</i>
 </p>
 
 ---
 
-### 🌐 Find Me
-
-[![Personal Website](https://img.shields.io/badge/chenlizhe.cn-ED1C24?style=flat&logo=google-chrome&logoColor=white)](https://www.chenlizhe.cn)
-[![Email](https://img.shields.io/badge/Email-ED1C24?style=flat&logo=gmail&logoColor=white)](mailto:chenlizheme@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ED1C24?style=flat&logo=github&logoColor=white)](https://github.com/ChenlizheMe)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChenlizheMe&show_icons=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=EB5757&icon_color=EB5757&text_color=c9d1d9&border_color=EB5757&include_all_commits=true"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenlizheMe&layout=compact&langs_count=6&bg_color=0d1117&title_color=EB5757&text_color=c9d1d9&border_color=EB5757"/>
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://www.chenlizhe.cn"><img src="https://img.shields.io/badge/Website-EB5757?style=flat&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:chenlizheme@outlook.com"><img src="https://img.shields.io/badge/Email-EB5757?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/ChenlizheMe"><img src="https://img.shields.io/badge/GitHub-EB5757?style=flat&logo=github&logoColor=white"/></a>
+</p>
