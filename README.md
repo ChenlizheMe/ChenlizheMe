@@ -1,4 +1,4 @@
-<h1 align="center">Lizhe Chen &nbsp;·&nbsp; 陈利哲</h1>
+<h1 align="center">Lizhe Chen &nbsp;·&nbsp; 陈立哲</h1>
 
 <p align="center">
   <b>Master's Student @ Tsinghua University</b>
