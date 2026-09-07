@@ -8,15 +8,6 @@
   <i>"Build fast. Break things. Figure out why."</i>
 </p>
 
----
-
-<p align="center">
-  <img height="160em" src="https://readme-stats-git-master.justsong.cn/api?username=ChenlizheMe&show_icons=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=EB5757&icon_color=EB5757&text_color=c9d1d9&border_color=EB5757&include_all_commits=true"/>
-  &nbsp;
-  <img height="160em" src="https://readme-stats-git-master.justsong.cn/api/top-langs/?username=ChenlizheMe&layout=compact&langs_count=6&bg_color=0d1117&title_color=EB5757&text_color=c9d1d9&border_color=EB5757"/>
-</p>
-
----
 
 <p align="center">
   <a href="https://www.chenlizhe.cn"><img src="https://img.shields.io/badge/Website-EB5757?style=flat&logo=google-chrome&logoColor=white"/></a>
