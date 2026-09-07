@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChenlizheMe&show_icons=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=EB5757&icon_color=EB5757&text_color=c9d1d9&border_color=EB5757&include_all_commits=true"/>
+  <img height="160em" src="https://readme-stats-git-master.justsong.cn/api?username=ChenlizheMe&show_icons=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=EB5757&icon_color=EB5757&text_color=c9d1d9&border_color=EB5757&include_all_commits=true"/>
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenlizheMe&layout=compact&langs_count=6&bg_color=0d1117&title_color=EB5757&text_color=c9d1d9&border_color=EB5757"/>
+  <img height="160em" src="https://readme-stats-git-master.justsong.cn/api/top-langs/?username=ChenlizheMe&layout=compact&langs_count=6&bg_color=0d1117&title_color=EB5757&text_color=c9d1d9&border_color=EB5757"/>
 </p>
 
 ---
